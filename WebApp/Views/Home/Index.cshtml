@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div class="container-fluid">
+    <div class="form-group js-form-message text-center">
+        <div class="form-group">
+            <select class="custom-select form-control js-form-filter-control" name="sltusuario" id="sltusuario"
+                    data-msg="Seleccione un usuario"
+                    data-error-class="u-has-error"
+                    data-success-class="u-has-success">
+            </select>
+        </div>
+    </div>
+    <div class="text-center">
+        <table id="tblData" class="table-bordered">
+            <thead>
+                <tr>
+                    <th>Project Id</th>
+                    <th>Start Day</th>
+                    <th>Time Of Start</th>
+                    <th>End Date</th>
+                    <th>Credits</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+</div>
+
+
+@section scripts
+{
+    <script type="text/javascript" src="@Url.Content("/Scripts/controlActions.js")"></script>
+    <script type="text/javascript" src="@Url.Content("/Scripts/Views/Home/index.js")"></script>
+}

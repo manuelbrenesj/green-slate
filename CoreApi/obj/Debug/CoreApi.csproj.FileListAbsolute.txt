@@ -1,0 +1,70 @@
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\CoreApi.dll.config
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\CoreApi.pdb
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\Data.dll
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\EntityFramework.dll
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\Data.pdb
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\Data.dll.config
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\EntityFramework.xml
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\obj\Debug\CoreApi.csprojAssemblyReference.cache
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\obj\Debug\CoreApi.csproj.CopyComplete
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\obj\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\source\repos\App\CoreApi\obj\Debug\CoreApi.pdb
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.dll.config
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.dll
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.pdb
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.dll
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.dll
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.pdb
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.dll.config
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.xml
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.csprojAssemblyReference.cache
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.csproj.CopyComplete
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.dll
+D:\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.pdb
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.dll.config
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.dll
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\CoreApi.pdb
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.dll
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.dll
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.pdb
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\Data.dll.config
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.xml
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.csprojAssemblyReference.cache
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.csproj.CopyComplete
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.dll
+C:\Users\Manuel\Dropbox (O)\Soft\Manuel\Programacion\mvc_cliente_servidor\App\CoreApi\obj\Debug\CoreApi.pdb
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\CoreApi.dll.config
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\CoreApi.pdb
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\Data.dll
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\EntityFramework.dll
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\Data.pdb
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\Data.dll.config
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\EntityFramework.xml
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\obj\Debug\CoreApi.csprojAssemblyReference.cache
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\obj\Debug\CoreApi.csproj.CopyComplete
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\obj\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\Documents\Git\GreenSlate\CoreApi\obj\Debug\CoreApi.pdb
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\CoreApi.dll.config
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\CoreApi.pdb
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\Data.dll
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\EntityFramework.dll
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\Data.pdb
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\Data.dll.config
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\EntityFramework.xml
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\obj\Debug\CoreApi.csprojAssemblyReference.cache
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\obj\Debug\CoreApi.csproj.CopyComplete
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\obj\Debug\CoreApi.dll
+C:\Users\Manuel Brenes J\Documents\Git\green-slate\CoreApi\obj\Debug\CoreApi.pdb
